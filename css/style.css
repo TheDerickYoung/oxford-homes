@@ -100,7 +100,7 @@ button {
 
 button:hover {
   background-color: rgba(0, 134, 201, .7);
-  /*transform: scale(1.02);*/
+  /* transform: scale(1.02); */
 }
 
 .btn {
@@ -172,8 +172,8 @@ ul li:hover {
 }
 
 .submit:hover {
-  color: orange;
-  background-color: white;
+  color: white;
+  background-color: rgba(251, 192, 147, .9);
   transform: scale(1.02);
 }
 
@@ -186,4 +186,29 @@ ul li:hover {
 
 .links img {
   cursor: pointer;
+}
+
+.next-page {
+  grid-column-start: span 4;
+  align-self: center;
+  justify-self: end;
+  margin: 1rem;
+}
+
+.footer {
+  display: flex;
+  align-items: start;
+  justify-content: space-evenly;
+  background-color: rgba(0, 134, 201, .9);
+  color: white;
+}
+
+.footer ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-column {
+  display: inline-block;
 }
