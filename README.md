@@ -3,6 +3,9 @@
 This project showcases a user interface (UI) for a real estate homes website, designed to capture leads and facilitate home loan acquisition for the brokerage's realtor partners. The project provides a basic example of the UI, serving as a template for similar platforms in the real estate industry.
 
 Link to project: [Oxford Homes](https://thederickyoung.github.io/oxford-homes/)
+
+<img width="1439" alt="oxford homes" src="https://github.com/TheDerickYoung/oxford-homes/assets/119906716/b122df32-9d65-4a14-9b9e-add6db2217f5">
+
 ## Key Features:
 
 - Lead Capture: The website features custom-built forms and lead generation tools, allowing visitors to express interest in properties and request assistance from realtors. The system ensures smooth lead qualification and efficient distribution to the appropriate realtor partners.
